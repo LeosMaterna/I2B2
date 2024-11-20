@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+ 
+button{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    background-color: #c27c22;
+    margin: 10px;
+    width: 110px;
+    height: 50px;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 1s;
+    letter-spacing: 3px;
+}
+ 
+.button1:hover{
+    scale: 0.9;
+}
+ 
+.button2:hover{
+    scale: 1.1;
+}
+ 
+.button3:hover{
+    background-color: #db4315ff;
+}
+ 
+.button4:hover{
+    background-color: transparent;
+    border: 5px solid #c27c22;
+    color: black;
+}
+ 
+.button5:hover{
+   
+}
+ 
+.button6:hover{
+    scale: 0.9;
+}
